@@ -60,7 +60,19 @@ I’m **Muhammed Hamza**, a final-year **Computer Science & Engineering** studen
 
 ## 🚀 Featured Projects
 
-*Your selected projects will be added here.*
+### 🥭 Mango Disease Prediction
+**Collaborative Project** — A machine-learning based application focused on identifying mango diseases from leaf images, with a dedicated frontend for interacting with the prediction system.
+
+**Focus:** Machine Learning • Computer Vision • React • Web Development
+
+[🔗 View Project](https://github.com/manasmishra16/mango-frontend)
+
+### ❤️ Heart Disease Prediction
+**Collaborative Project** — A machine-learning based project designed to predict the likelihood of heart disease using relevant health-related input features.
+
+**Focus:** Machine Learning • Data Analysis • Prediction • Web Development
+
+[🔗 View Project](https://github.com/manasmishra16/Heart-disease-prediction)
 
 ---
 
