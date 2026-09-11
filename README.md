@@ -87,15 +87,15 @@ I’m **Muhammed Hamza**, a final-year **Computer Science & Engineering** studen
 ## 🤝 Let's Connect
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedhamza26/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.hamzx/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzapvt225@gmail.com)
+<a href="https://www.linkedin.com/in/muhammedhamza26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/md.hamzx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:hamzapvt225@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
 <div align="center">
-**BUILDING A SAFER DIGITAL TOMORROW**
-
-⭐ *Small steps every day make a big difference.*
+<strong>BUILDING A SAFER DIGITAL TOMORROW</strong>
+<br><br>
+⭐ <em>Small steps every day make a big difference.</em>
 </div>
