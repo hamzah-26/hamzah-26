@@ -1,0 +1,112 @@
+\relax 
+\citation{fao2023world}
+\citation{apeda2024mango,nhb2023statistics}
+\citation{icar2023mango}
+\citation{ferentinos2018deep,mohanty2016using}
+\citation{kamilaris2018deep,barbedo2019plant,saleem2019plant}
+\citation{rayed2025mangoleafxnet}
+\citation{torgbor2023remote}
+\@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}{}\protected@file@percent }
+\citation{kamilaris2018deep,singh2021deep}
+\citation{simonyan2014very}
+\citation{he2016deep}
+\citation{chouhan2020soft}
+\citation{akbar2022mango}
+\citation{rayed2025mangoleafxnet}
+\citation{hu2018squeeze}
+\citation{vaswani2017attention}
+\citation{torgbor2023remote}
+\citation{chen2016xgboost}
+\citation{hochreiter1997long}
+\citation{howard2019searching}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces End-to-end multi-stage pipeline of the proposed MangoDL precision horticulture framework, spanning Laplacian focus filtering, MobileNetV3-Small domain gating, multi-task CNN foliar diagnosis, downstream climate-coupled yield regression, and agro-economic market arbitration.}}{2}{}\protected@file@percent }
+\newlabel{fig:pipeline}{{1}{2}{}{figure.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {II}Related Work}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {II-A}}Deep Learning in Plant Pathology}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {II-B}}Channel Attention and Multi-Task Representation Learning}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {II-C}}Crop Yield Prediction and Satellite Telemetry}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {III}Proposed Methodology}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-A}}Stage 1: Image Quality and Laplacian Blur Gate}{2}{}\protected@file@percent }
+\citation{hu2018squeeze}
+\citation{chen2016xgboost}
+\citation{hochreiter1997long}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Detailed architectural topology of the proposed MangoLeafXNet-SE backbone, illustrating convolutional blocks, intermediate Squeeze-and-Excitation (SE) recalibration units, and dual multi-task output heads.}}{3}{}\protected@file@percent }
+\newlabel{fig:cnn_se}{{2}{3}{}{figure.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-B}}Stage 2: MobileNetV3-Small MangoDomainGate}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-C}}Stage 3: MangoLeafXNet-SE Diagnostic Backbone}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-D}}Stage 4: Joint Multi-Task Disease and Severity Learning}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-E}}Stage 5: Climate-Coupled Yield Forecasting}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-F}}Stage 6: Agro-Economic Decision Arbitration}{3}{}\protected@file@percent }
+\citation{simonyan2014very}
+\citation{tan2019efficientnet}
+\citation{rayed2025mangoleafxnet}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Training and validation dynamics over 50 training epochs for MangoLeafXNet-SE, MultiTask, and Vanilla baselines: (a) Cross-entropy loss trajectory; (b) Validation accuracy convergence.}}{4}{}\protected@file@percent }
+\newlabel{fig:training_curves}{{3}{4}{}{figure.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {IV}Experimental Setup and Datasets}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-A}}Unified Foliar Image Corpus}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-B}}Meteorological and Satellite Telemetry}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-C}}Training Protocol and Implementation Details}{4}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Diagnostic validation on held-out test evaluation: (a) Normalized confusion matrix across 8 pathological categories ($N=400$ specimens); (b) Receiver Operating Characteristic (ROC) curves highlighting near-ideal sensitivity ($AUC \ge 0.9976$) across all classes.}}{4}{}\protected@file@percent }
+\newlabel{fig:confusion_roc}{{4}{4}{}{figure.4}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces Diagnostic Model Performance Comparison on Test Set}}{4}{}\protected@file@percent }
+\newlabel{tab:model_comparison}{{I}{4}{}{table.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {V}Experimental Results and Discussion}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-A}}Disease Detection Performance Comparison}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-B}}Convergence Dynamics}{4}{}\protected@file@percent }
+\citation{selvaraju2017gradcam}
+\citation{ribeiro2016why}
+\citation{torgbor2023remote}
+\citation{torgbor2023remote}
+\citation{lundberg2017unified}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Pathological Explainable AI (XAI) gallery across authentic mango leaf specimens from the experimental dataset: Row 1 Healthy ($S=0.0$), Row 2 Anthracnose ($S=2.4$), Row 3 Bacterial Canker ($S=2.2$), Row 4 Powdery Mildew ($S=1.8$). Columns depict Original Specimen, Grad-CAM attention heatmap, Gradient Saliency map, and LIME superpixel segmentations.}}{5}{}\protected@file@percent }
+\newlabel{fig:xai_gallery}{{5}{5}{}{figure.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-C}}Confusion Matrix and ROC-AUC Analysis}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-D}}Out-of-Distribution Domain Rejection Evaluation}{5}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {II}{\ignorespaces Out-of-Distribution (OOD) Domain Rejection Evaluation}}{5}{}\protected@file@percent }
+\newlabel{tab:ood_rejection}{{II}{5}{}{table.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-E}}Explainable AI (XAI) Attribution}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-F}}Climate-Coupled Yield Forecasting}{5}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {III}{\ignorespaces 5-Fold Cross-Validation Metrics for Yield Regressors}}{5}{}\protected@file@percent }
+\newlabel{tab:yield_results}{{III}{5}{}{table.3}{}}
+\citation{simonyan2014very}
+\citation{howard2019searching}
+\citation{apeda2024mango,icar2023mango}
+\bibstyle{IEEEtran}
+\bibdata{references}
+\bibcite{fao2023world}{1}
+\bibcite{apeda2024mango}{2}
+\bibcite{nhb2023statistics}{3}
+\bibcite{icar2023mango}{4}
+\bibcite{ferentinos2018deep}{5}
+\bibcite{mohanty2016using}{6}
+\bibcite{kamilaris2018deep}{7}
+\bibcite{barbedo2019plant}{8}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Downstream predictive and economic intelligence framework: (a) Global SHAP feature attribution highlighting dominant sensitivity to foliar severity $S$; (b) Agro-economic arbitration frontier mapping net farmer revenue across severity $S \in [0, 3]$.}}{6}{}\protected@file@percent }
+\newlabel{fig:downstream_intelligence}{{6}{6}{}{figure.6}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-G}}Agro-Economic Decision Optimization}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {VI}Ablation Study}{6}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {IV}{\ignorespaces Systematic Ablation Study Across Framework Components}}{6}{}\protected@file@percent }
+\newlabel{tab:ablation}{{IV}{6}{}{table.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {VII}Discussion and Edge Feasibility}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {VII-A}}Computational Footprint and Edge Viability}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {VII-B}}Environmental Robustness and In-Field Utility}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {VIII}Conclusion and Future Scope}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{References}{6}{}\protected@file@percent }
+\bibcite{saleem2019plant}{9}
+\bibcite{rayed2025mangoleafxnet}{10}
+\bibcite{torgbor2023remote}{11}
+\bibcite{singh2021deep}{12}
+\bibcite{simonyan2014very}{13}
+\bibcite{he2016deep}{14}
+\bibcite{chouhan2020soft}{15}
+\bibcite{akbar2022mango}{16}
+\bibcite{hu2018squeeze}{17}
+\bibcite{vaswani2017attention}{18}
+\bibcite{chen2016xgboost}{19}
+\bibcite{hochreiter1997long}{20}
+\bibcite{howard2019searching}{21}
+\bibcite{tan2019efficientnet}{22}
+\bibcite{selvaraju2017gradcam}{23}
+\bibcite{ribeiro2016why}{24}
+\bibcite{lundberg2017unified}{25}
+\gdef \@abspage@last{7}

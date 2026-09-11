@@ -1,51 +1,34 @@
-# 🥭 MangoDL — Mango Disease & Yield Prediction
+# MangoDL: Mango Yield and Disease Prediction
 
-> **Collaborative project showcase**
->
-> This folder is a portfolio showcase for the group project. The original source repository remains the canonical project repository and is owned by the group.
+Deep Learning Approach for Mango Yield and Disease Prediction Using Climate Data.
 
-## Overview
+## Project Overview
+Unified precision agriculture platform with three integrated ML modules:
+1. **Disease Detection**: CNN-based classification with SE-blocks and Grad-CAM/LIME explainability.
+2. **Yield Prediction**: XGBoost + LSTM fusion using vegetation indices and NASA POWER weather data.
+3. **Economic Module**: Profit estimation and decision support for farmers.
 
-MangoDL is a precision-agriculture platform combining deep learning, climate data and decision support for mango cultivation.
+## Tech Stack
+- **Framework**: PyTorch 2.x
+- **Models**: Enhanced MangoLeafXNet, XGBoost, LSTM
+- **Explainability**: torchcam, SHAP, LIME
+- **API**: FastAPI
+- **Frontend**: React + Tailwind + Recharts
 
-### Core modules
+## Project Structure
+- `data/`: Datasets and climate records.
+- `src/`: Core logic and model definitions.
+- `notebooks/`: EDA and training experiments.
+- `backend/`: FastAPI server.
+- `frontend/`: React dashboard.
 
-| Module | Technology / Approach |
-|---|---|
-| 🦠 Disease Detection | CNN classification + SE-blocks |
-| 🔎 Explainability | Grad-CAM + LIME |
-| 🌱 Yield Prediction | XGBoost + LSTM fusion |
-| 🌦️ Climate Data | NASA POWER weather data |
-| 💰 Economic Analysis | Profit estimation + decision support |
-| ⚡ API | FastAPI |
-| 🖥️ Dashboard | React + Tailwind + Recharts |
-
-## Original Group Repository
-
-**Canonical source:** https://github.com/manasmishra16/mango-disease-prediction
-
-The original repository contains the backend, frontend, source code, notebooks and project setup. Its README currently specifies `uv sync` for dependency installation.
-
-## My Portfolio Use
-
-I contributed to this project as part of a group and am showcasing it here as **collaborative work**, not as an individually owned repository.
-
-> **Important:** Add your exact personal contribution here before using this as a resume/project description. Examples: frontend development, model training, API integration, dataset preparation, testing, documentation, or deployment.
-
-## Technologies
-
-`Python` `PyTorch` `XGBoost` `LSTM` `FastAPI` `React` `Tailwind CSS` `Recharts` `SHAP` `LIME` `Grad-CAM`
-
-## Run the Original Project
-
-See the original repository's `README.md` and `RUN.md` for the latest instructions.
+## Setup
+This project uses `uv` for dependency management.
 
 ```bash
+# Install dependencies
 uv sync
 ```
 
-## Credits
-
-Original project: **manasmishra16/mango-disease-prediction**
-
-This showcase does not copy or re-license the group's source code; it provides a portfolio-level description and a link to the canonical repository.
+## Roadmap
+See [ROADMAP.md](ROADMAP.md) for detailed phase-by-phase development plans.

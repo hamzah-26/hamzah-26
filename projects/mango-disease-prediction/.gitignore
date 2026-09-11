@@ -1,0 +1,51 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data and Models
+/data
+/models
+Datasets/
+scratch/
+reports/figures/
+.kaggle/
+graphify-out/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Environment
+.env
+*.env
+
+# Editor
+.vscode/
+
+archive/
+
+
+# Local archive
+archive/
+
+# Frontend build
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Environment
+.env
+*.env
+
+# Editor
+.vscode/
+reports/
+*.tsbuildinfo
