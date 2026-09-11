@@ -1,58 +1,80 @@
 # Hi, I'm Muhammed Hamza 👋
 
-### Computer Science Engineering Student | Java | Software Development
+### Computer Science & Engineering Student | Software Development | Cybersecurity
 
-I’m a Computer Science Engineering student focused on building strong software development fundamentals and turning ideas into practical projects.
+🎓 **K.S. Institute of Technology (KSIT)**  
+📚 **7th Semester — Final Year**
 
-I enjoy learning by building, improving my problem-solving skills, and exploring how software can be designed to be clean, useful, and maintainable.
+I’m a Computer Science & Engineering student interested in software development and cybersecurity, with a focus on learning through practical projects and hands-on exploration.
 
-## 🧑‍💻 About Me
+## 💻 Programming Languages
 
-- 🎓 Computer Science Engineering student
-- ☕ Building a strong foundation in Java and Object-Oriented Programming
-- 🧠 Interested in software development and problem solving
-- 🚀 Learning by building practical projects
-- 📚 Continuously improving my technical skills
+- Java
+- Python
+- C
+- C++
+- JavaScript
+- SQL
+- HTML
+- CSS
 
-## 🛠️ Tech Stack
+## 🌐 Web Technologies
 
-**Languages**
+- React.js
+- Node.js
+- Express.js
+- Bootstrap
+- REST APIs
+- JSON
 
-`Java` `SQL`
+## 🗄️ Databases
 
-**Core Concepts**
+- MySQL
+- MongoDB
 
-`OOP` `Data Structures` `Exception Handling` `Interfaces`
+## 🔐 Cybersecurity
 
-**Tools**
+- Linux / Bash
+- Networking
+- Ethical Hacking
+- Penetration Testing
+- Web Security
+- Digital Forensics
+- Cryptography
+- Security Operations
 
-`Git` `GitHub`
+## 🛠️ Tools & Platforms
 
-## 📌 Current Focus
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- Kali Linux
+- Wireshark
+- Burp Suite
 
-- Strengthening Java and OOP fundamentals
-- Building practical projects
-- Improving data structures and problem-solving skills
-- Learning modern software development practices
+## 🎯 Areas of Interest
 
-## 🎯 2026 Goals
+- Cybersecurity & Information Security
+- Web Application Security
+- Ethical Hacking & Penetration Testing
+- Network & System Security
+- Digital Forensics
+- Software Development
 
-- Build and publish more meaningful projects
-- Strengthen my software engineering fundamentals
-- Contribute to open-source projects
-- Grow into a confident and capable software developer
+## 🚀 Current Focus
 
-## 📊 GitHub
-
-[![GitHub followers](https://img.shields.io/github/followers/hamzah-26?style=for-the-badge&logo=github)](https://github.com/hamzah-26)
-[![GitHub stars](https://img.shields.io/github/stars/hamzah-26?style=for-the-badge&logo=github)](https://github.com/hamzah-26?tab=repositories)
+- Strengthening my programming and software development skills
+- Building practical web and software projects
+- Developing hands-on cybersecurity knowledge
+- Continuously learning and improving through projects
 
 ## 🤝 Let's Connect
 
-If you're interested in software development, projects, or collaboration, feel free to connect.
+I’m always interested in learning, building, and connecting with people in software development and cybersecurity.
 
 **GitHub:** [@hamzah-26](https://github.com/hamzah-26)
 
 ---
 
-⭐ *Thanks for visiting my profile.*
+⭐ Thanks for visiting my profile!
