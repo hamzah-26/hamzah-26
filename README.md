@@ -71,9 +71,10 @@ I’m a Computer Science & Engineering student interested in software developmen
 
 ## 🤝 Let's Connect
 
-I’m always interested in learning, building, and connecting with people in software development and cybersecurity.
-
-**GitHub:** [@hamzah-26](https://github.com/hamzah-26)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzah-26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedhamza26/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.hamzx/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzapvt225@gmail.com)
 
 ---
 
