@@ -43,14 +43,25 @@ I’m **Muhammed Hamza**, a final-year **Computer Science & Engineering** studen
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=hamzah-26&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamzah-26&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<br><br>
+<img src="https://ghchart.rshah.org/409ba5/hamzah-26" width="90%" alt="Muhammed Hamza GitHub contribution graph" />
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🥭 Mango Disease Prediction
-**Collaborative Project** — A machine-learning based application focused on identifying mango diseases from leaf images, with a dedicated frontend for interacting with the prediction system.
+**Collaborative Project** — Machine-learning based mango disease prediction and precision-agriculture platform. The group project combines CNN disease detection, explainability, yield prediction and a web dashboard.
 
-**Focus:** Machine Learning • Computer Vision • React • Web Development
+**Focus:** Deep Learning • Computer Vision • React • FastAPI • Precision Agriculture
 
-[🔗 View Project](https://github.com/manasmishra16/mango-frontend) · [🚀 Live Demo](https://mango-frontend-flax.vercel.app/)
+[🔗 Original Group Repository](https://github.com/manasmishra16/mango-disease-prediction) · [🚀 Live Demo](https://mango-frontend-flax.vercel.app/) · [📁 Portfolio Showcase](./projects/mango-disease-prediction/README.md)
 
 ### ❤️ Heart Disease Prediction
 **Collaborative Project** — A machine-learning based project designed to predict the likelihood of heart disease using relevant health-related input features.
@@ -76,19 +87,15 @@ I’m **Muhammed Hamza**, a final-year **Computer Science & Engineering** studen
 ## 🤝 Let's Connect
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedhamza26/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.hamzx/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzapvt225@gmail.com)
-
 </div>
 
 ---
 
 <div align="center">
-
 **BUILDING A SAFER DIGITAL TOMORROW**
 
 ⭐ *Small steps every day make a big difference.*
-
 </div>
