@@ -46,10 +46,14 @@ I’m **Muhammed Hamza**, a final-year **Computer Science & Engineering** studen
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hamzah-26&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzah-26&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=hamzah-26&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=hamzah-26&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamzah-26&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/409ba5/hamzah-26" width="90%" alt="Muhammed Hamza GitHub contribution graph" />
+
 </div>
 
 ---
