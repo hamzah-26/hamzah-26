@@ -60,15 +60,7 @@ I’m **Muhammed Hamza**, a final-year **Computer Science & Engineering** studen
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Focus |
-|:---:|:---|
-| 💻 **Software & Web Projects** | Practical applications and experiments |
-| 🔐 **Cybersecurity Projects** | Security-focused learning and tooling |
-| 🧠 **DSA & Java** | Data structures, algorithms and problem solving |
-
-</div>
+*Your selected projects will be added here.*
 
 ---
 
