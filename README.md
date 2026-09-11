@@ -45,17 +45,17 @@ I’m **Muhammed Hamza**, a final-year **Computer Science & Engineering** studen
 
 ## 🚀 Featured Projects
 
-### 🥭 Mango Disease Prediction
-**Collaborative Project** — Machine-learning based mango disease prediction and precision-agriculture platform. The group project combines CNN disease detection, explainability, yield prediction and a web dashboard.
+### 🥭 Mango Disease & Yield Prediction
+**Collaborative Project** — AI-powered precision-agriculture platform for mango disease detection, crop-yield prediction, and farmer-focused decision support.
 
-**Focus:** Deep Learning • Computer Vision • React • FastAPI • Precision Agriculture
+**Tech:** PyTorch · CNN · XGBoost · LSTM · FastAPI · React · Tailwind CSS
 
-[🔗 Original Group Repository](https://github.com/manasmishra16/mango-disease-prediction) · [🚀 Live Demo](https://mango-frontend-flax.vercel.app/) · [📁 Portfolio Showcase](./projects/mango-disease-prediction/README.md)
+[🚀 Open Project](./projects/mango-disease-prediction) · [🔗 Original Group Repository](https://github.com/manasmishra16/mango-disease-prediction) · [🌐 Live Demo](https://mango-frontend-flax.vercel.app/)
 
 ### ❤️ Heart Disease Prediction
-**Collaborative Project** — A machine-learning based project designed to predict the likelihood of heart disease using relevant health-related input features.
+**Collaborative Project** — Machine-learning based project designed to predict the likelihood of heart disease from relevant input features.
 
-**Focus:** Machine Learning • Data Analysis • Prediction • Web Development
+**Focus:** Machine Learning · Data Analysis · Prediction · Web Development
 
 [🔗 View Project](https://github.com/manasmishra16/Heart-disease-prediction)
 
@@ -70,8 +70,6 @@ I’m **Muhammed Hamza**, a final-year **Computer Science & Engineering** studen
 - Improving DSA and problem solving
 - Learning through hands-on experimentation
 - Maintaining clean, documented repositories
-
----
 
 ## 🤝 Let's Connect
 
