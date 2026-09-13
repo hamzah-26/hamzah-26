@@ -1,6 +1,4 @@
-<div align="center">
-<img src="./assets/profile-banner.svg" width="100%" alt="Muhammed Hamza — Computer Science and Engineering" />
-</div>
+
 
 <div align="center">
 
