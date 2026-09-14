@@ -48,14 +48,13 @@ I’m **Muhammed Hamza**, a final-year **Computer Science & Engineering** studen
 
 **Tech:** PyTorch · CNN · XGBoost · LSTM · FastAPI · React · Tailwind CSS
 
-[🚀 Open Project](./projects/mango-disease-prediction) · [🔗 Original Group Repository](https://github.com/manasmishra16/mango-disease-prediction) · [🌐 Live Demo](https://mango-frontend-flax.vercel.app/)
 
 ### ❤️ Heart Disease Prediction
 **Collaborative Project** — Machine-learning based project designed to predict the likelihood of heart disease from relevant input features.
 
 **Focus:** Machine Learning · Data Analysis · Prediction · Web Development
 
-[🔗 View Project](https://github.com/manasmishra16/Heart-disease-prediction)
+
 
 ---
 
